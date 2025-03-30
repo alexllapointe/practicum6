@@ -1,4 +1,4 @@
-package edu.iu.p466.prime_service.service;
+package edu.iu.p466.arithmetic_service.service;
 
 public interface IArithmeticService {
 
